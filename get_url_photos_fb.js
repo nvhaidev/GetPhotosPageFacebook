@@ -1,4 +1,4 @@
-//https://www.facebook.com/pagenamdeptrai/photos/658452612246635
+//https://www.facebook.com/photo.php?fbid=462256545365079&set=pb.100047422118578.-2207520000..&type=3
 javascript:(() => {
     function findLink() {
         const link = [];
